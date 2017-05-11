@@ -246,8 +246,8 @@ MA-M,8CC8F4C,"Shenzhen KSTAR Science and Technology Co., Ltd","Kstar Industrial 
 MA-M,40F385D,Digital Bros S.p.A.,"via Tortona, 37 Milan MI IT 20144 "
 MA-M,40F3854,Embedded IQ,"Block C, HHK House; 22 Ethel Avenue Johannesburg Gauteng ZA 2195 "
 MA-M,40F3859,Fast Precision Technologies Co. Ltd.,"4th Floor, Yang Tian Bldg., Chuang Ye Er Road & Yang Tian Road, Bao An District Shenzhen Guangdong CN 518101 "
-MA-M,40F3850,SubPac,380 Portage Ave. Palo Alto CA US 94306 
 MA-M,1CA0D32,"NovTech, Inc.","7401 Wiles Road, Suite 229 Coral Springs FL US 33067 "
+MA-M,40F3850,SubPac,380 Portage Ave. Palo Alto CA US 94306 
 MA-M,38FDFEC,"New Garden Co., Ltd.","2F, NO.58, Xingshan Rd., Neihu., Taipei  TW 114 "
 MA-M,1CA0D3E,Exicom Tele-Systems Ltd.,"Plot Number 77A, IFFCO Road, Sector 18 Gurgaon Haryana IN 122015 "
 MA-M,A411630,Adetel Equipment,3200 rue guénette Montréal Québec CA H4S 2G5 
@@ -261,8 +261,8 @@ MA-M,98AAFC9,BEAM Authentic,"25 Tamalpais Avenue, Suite C San Anselmo CA US 9496
 MA-M,98AAFCE,Comarch S.A. ,Al. Jana Pawla II 39a Krakow  PL 31-864 
 MA-M,98AAFC8,Beijing Tiandi-Marco Electro-Hydraulic Control System Company Ltd.,"No.5 Qing Nian Gou Road, Hepingli Beijing  CN 100013 "
 MA-M,98AAFCC,dots Inc.,"10F WiL Office, Izumi Garden Tower, 1-6-1 Roppongi, Minatoku Tokyo Tokyo JP 1066010 "
-MA-M,08ED023,"Jiangsu Logread Network Technology Co., LTD.","No. 100 # 9, Shu Gang West Road, HanJiang Area,  Yangzhou  Jiangsu CN 225100 "
 MA-M,08ED026,SANGO ELECTRONICS CO,"RM 253,2/F,BLOCK A, CAMBRIDGE  PLAZA,188,SANWAN ROAD,  SHEUNG SHUI,HONG KONG  HongKong   CN 518131 "
+MA-M,08ED023,"Jiangsu Logread Network Technology Co., LTD.","No. 100 # 9, Shu Gang West Road, HanJiang Area,  Yangzhou  Jiangsu CN 225100 "
 MA-M,08ED024,Fio Corporation,"111 Queen Street East, Suite 500 Toronto ON CA M5C 1S2 "
 MA-M,60D7E3D,"Quantronix, Inc.",380 S. 200 W. Farmington UT US 84025 
 MA-M,60D7E36,Ameli s.r.l.,"via Guido Rossa,10 Impruneta Firenze IT 50023 "
@@ -507,7 +507,6 @@ MA-M,A4580FE,Finetree Communications Inc,"#406, Shinyatap Prugiocity2, Yanghyunr
 MA-M,40ED980,"Tsinghua Tongfang Co., LTD","Wangzhuang Road No.1, Haidian District, Beijing, Tsinghua Tongfang Technology Plaza. D 21st Floor Beijing Beijing CN 100083 "
 MA-M,D02212F,Private,
 MA-M,100723F,Private,
-MA-M,B0C5CAF,Private,
 MA-M,2836383,Sabinetek,"NO.1406  Hong Yuan Building  ,Jiu Xian Qiao Road A 4,Chao Yang Beijing China Beijing Beijing CN 100000 "
 MA-M,2836380,Knowles Electronics LLC,1151 Maplewood Drive Itasca IL US 60143 
 MA-M,8C192D7,SRETT,305 Avenue Le jour se lève Boulogne-Billancourt  FR 92100 
@@ -554,9 +553,9 @@ MA-M,8CC8F4A,Trilux Group Management GmbH,Heidestrasse Arnsberg  DE 59759
 MA-M,40F3856,Lennox International Incorporated,1600 Metrocrest Drive Carrollton TX US 75006 
 MA-M,40F3855,KATO ENGINEERING INC.,2075 HOWARD DRIVE WEST NORTH MANKATO  MN US 56003 
 MA-M,1CA0D35,"Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.","Unit C&D, No.201 WuXiang, Export Processing Zone A No.200Suhong Road SIP Suzhou JiangSu CN 215021 "
+MA-M,1CA0D33,SAVELEC,rue de la houille blanche HERMILLON SAVOIE FR 73300 
 MA-M,1CA0D37,Private,
 MA-M,A411634,"AlterG, Inc.",48438 Milmont Drive Fremont CA US 94538 
-MA-M,1CA0D33,SAVELEC,rue de la houille blanche HERMILLON SAVOIE FR 73300 
 MA-M,A411631,INTER CONTROL Hermann Köhler Elektrik GmbH & Co.KG,Schafhofstrasse 30 Nuernberg  DE 90411 
 MA-M,144FD77,"Shenzhen V-Streaming Technology Co., Ltd.","Room610, LangShanGe Building, Yugu Hi-Tech Park, Liuxin Road 1183, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-M,144FD7A,Unirobot Corporation,"MK Hatagaya Sasazuka building 6F, Hatagaya, Shibuya-ku Tokyo Japan JP 1510072 "
@@ -572,9 +571,9 @@ MA-M,60D7E31,Elap s.r.l.,Via V. Veneto 4 Corsico Milano IT 20094
 MA-M,04714B1,uAvionix Corporation,380 Portage Ave. Palo Alto CA US 94306 
 MA-M,04714B2,"Shenzhen WayOS Technology Crop., Ltd.","F18, Yousong Business Building, Longhua New Districe, Shenzhen, China Shenzhen Guangdong CN 518109 "
 MA-M,04714B8,Energport Inc,48660 Kato Road Fremont CA US 94538 
+MA-M,8C147D5,Unwired Networks,Gonzagagasse 11/25 Vienna  AT 1010 
 MA-M,F023B94,EZVIS LIMITED,FLAT/RM 1605A Ho KING COMMERCIAL CENTRE 2-16 FA YUEN STREET HONGKONG  HK 999077 
 MA-M,F023B9A,annapurnalabs,HACRMEL 2 st Brosh BLDG FLOOR3 YOKNEAM. POB 218 Israel IL 26814 
-MA-M,8C147D5,Unwired Networks,Gonzagagasse 11/25 Vienna  AT 1010 
 MA-M,8C147D2,Agilent S.p.A,Via.flli Varian 54 Leini Torino IT 10040 
 MA-M,8C147DE,Electrical & Automation Larsen & Toubro Limited,"Mysore Campus, KIADB Industrial Area, Hebbal, Hootagalli Mysore Karnataka IN 570020 "
 MA-M,A0C5F29,Impulse Networks Pte Ltd,"1 Raffles Place, #44-08 Raffles Place Singapore  SG 048616 "
@@ -589,8 +588,10 @@ MA-M,78D8006,Alango Technologies Ltd,"Etgar 2, Carmel Biulding 1rd floor Tirat C
 MA-M,78D800C,"Shenzhen Chenzhuo Technology Co., Ltd.","301,3/F,Longtangge,1183 Liuxian Avenue,Nanshan Shenzhen Guangdong CN 518055 "
 MA-M,28F5374,Phyn LLC,1855 Del Amo Blvd Torrance CA US 90501 
 MA-M,A43BFAF,Private,
-MA-M,28F5376,MyOmega Systems GmbH,Neumeyerstr. 28-34 Nürnberg Bavaria DE 90411 
 MA-M,28F5377,"Shenzhen Modern Cowboy Technology Co.,Ltd.     ","Room 1006,Beike building，Keyuan road,Yuehai streets,Nanshan District Shenzhen Guangdong Province CN 518200 "
+MA-M,28F5376,MyOmega Systems GmbH,Neumeyerstr. 28-34 Nürnberg Bavaria DE 90411 
+MA-M,28F537A,"Honeywell Safety Products USA, Inc",7828 Waterville Road San Diego CA US 92154 
+MA-M,B0C5CAF,Private,
 MA-M,1C87765,"Zhuhai MYZR Technology Co.,Ltd","Room 302,Area D2,National Hi-tech Zone,NO.1,Software Park Road Zhuhai  CN 519085 "
 MA-M,1C87793,Visual Land Inc.,17785 Center Court Dr. #670 Cerritos CA US 90703 
 MA-M,1C87790,Wurm GmbH & Co. KG Elektronische Systeme,Morsbachtalstr. 30 Remscheid  DE 42857 
@@ -687,7 +688,6 @@ MA-M,2C265F7,"Coremate Technical Co., Ltd","7F., No576, Sec.1, Minsheng N. Rd., 
 MA-M,2C265F3,"shenzhen Clever Electronic Co., Ltd.","Building 8, Baiwang Creative Park(UTCP),Nanshan District,Shenzhen,China Shenzhen GuangDong CN 518055 "
 MA-M,2C265F0,"XIAMEN VORLINK IOT TECHNOLOGY CO.,LTD.","No.306 of Chengye Bldg., Xiamen Pioneering Park for Overseas Chinese Scholars xiamen fujian CN 361000 "
 MA-M,F80278D,Dueton Systems s.r.o.,Varsavska 290/13 Prague 2 Vinohrady CZ 120 00 
-MA-M,0CEFAFB,Hubei Century Network Technology Co .Ltd,"9-11th floor, B7, FinancialHarbour, NO.77, Guanggu Avenue, East Lake New Technology Development Zone Wuhan Hubei CN 430074 "
 MA-M,A44F291,Olssen B.V.,Schrank 9 Hardinxveld-Giessendam Zuid-Hollland NL 3371KJ 
 MA-M,3C39E79,Zone Controls AB,Verkstadsvägen 6 Västerhaninge Stockholms län SE 137 37 
 MA-M,3C39E76,RO.VE.R. Laboratories S.p.A,Via Parini 2/4 Colombare di SIrmione BS IT 25019 
@@ -855,13 +855,13 @@ MA-M,40F385B,URMET Home & Building Solutions Pty Ltd,36 Ricketty Street Mascot N
 MA-M,40F3858,Teleepoch Ltd,"No.13 Langshan Rd,HiTech Park,Nanshan District Shenzhen Guangdong CN 518000 "
 MA-M,1CA0D3B,"Guang Dong He Zheng Network Technology Co.,Ltd","N0.3,Sanjiang industrial zone,Hengli Town Dongguan Guangdong CN 523460 "
 MA-M,1CA0D3D,ERATO (HK) Corporation Limited,"Unit P,8th floor, Kaiser Estate 3rd Phase, No,11 Hok Yuen Street, Hung Hom Kowloon Hong Kong HK 999077 "
-MA-M,1CA0D3A,DSM Messtechnik GmbH,Dieselstrasse 16 Aalen Baden-Wuerttemberg DE 73431 
 MA-M,1CA0D38,Desarrollos y Soluciones Guinea I+D S.L.,Avda. de los Trabajadores nº2 1ªPlanta Illescas Toledo ES 45200 
+MA-M,1CA0D3A,DSM Messtechnik GmbH,Dieselstrasse 16 Aalen Baden-Wuerttemberg DE 73431 
 MA-M,A411638,Dspread Technology (Beijing) Inc.,"Jingxin Building, 2045 Suite , Chaoyang District Beijing  CN 100027 "
 MA-M,A411639,accesso Technology Group,"Unit 5, The Pavillions, Ruscombe Business Park Twyford Wilts GB RG10 9NN "
 MA-M,A41163A,ISE GmbH,Osterstrasse 15 Oldenburg  DE 26122 
-MA-M,A411635,"Carbon, Inc.",312 Chestnut St Redwood City CA US 94063 
 MA-M,4CE1731,Nexoforge Inc.,4514 47 Ave  Leduc Alberta CA T9E 5S9 
+MA-M,A411635,"Carbon, Inc.",312 Chestnut St Redwood City CA US 94063 
 MA-M,144FD70,annapurnalabs,HACRMEL 2 st Brosh BLDG FLOOR3 YOKNEAM. POB 218 Israel IL 26814 
 MA-M,144FD75,FLS FINLAND OY,Voudinkatu 35 A Raisio  FI FI21200 
 MA-M,144FD74,Red Technology Limited,"Room 702, 7/F., Fu Fai Commercial Centre, 27 Hillier Street, Sheung Wan Hong Kong  HK 999077 "
@@ -889,17 +889,19 @@ MA-M,4C65A83,Roost,"955, Benecia Ave Sunnyvale CA US 94085 "
 MA-M,4C65A8D,"Qingping Technology (Beijing) Co., Ltd.","Room 401, Block B, Fangheng Times Square, No. 10 Wangjing Street, Chaoyang District Beijing  CN 100102 "
 MA-M,F88A3C4,"GO-LINK TECHNOLOGY CO., LTD.","Rm. 4, 14F., No.9, Sec.3, Zhonghua Rd., Hsinchu City  TW 30060 "
 MA-M,F88A3C0,ART SPA,"VOC.PISCHIELLO, 20 PASSIGNANO SUL TRASIMENO PG IT 06065 "
-MA-M,F88A3CA,Protos GmbH,Herrschaftswiesen 11 Koblach  AT 6842 
 MA-M,F88A3CE,Avateq Corp.,"3555 - 14th Ave., Unit 18 Markham ON CA L3R 0H5 "
+MA-M,F88A3CA,Protos GmbH,Herrschaftswiesen 11 Koblach  AT 6842 
 MA-M,7CBACC0,TGT Limited,"Flat/Rm 1003 10/F, Witty Commercial Building, 1A-1L Tung Choi Street, Hong Kong  HongKong  HK 529060 "
 MA-M,7CBACCA,annapurnalabs,HACRMEL 2 st Brosh BLDG FLOOR3 YOKNEAM. POB 218 Israel IL 26814 
 MA-M,7CBACC4,Sun Asia Trade Co.,"RM 1005 10/F, HOKING COMMERCIAL CENTRE,2-16 FA YUEN STREET MONGKOk Hong Kong Hong Kong HK 9998800 "
 MA-M,885D90F,Private,
 MA-M,BC3400F,Private,
 MA-M,28F537D,Skyrockettoys LLC,12910 culver blvd Ste F los angeles CA US 90066 
-MA-M,80E4DAF,Private,
 MA-M,7419F8F,Private,
+MA-M,80E4DAF,Private,
 MA-M,28F5373,PRIMETECH ENGINEERING CORP.," Koishikawadaikoku Bldg. 3F, 1-3-25  Koishikawa, Bunkyo-ku Tokyo JP 112-0002 "
+MA-M,34008A2,"RPE ""Monitor""",Krasnokursantskaya 104a Rostov-on-Don Select RU 344068 
+MA-M,0CEFAFB,"Hubei Century Network Technology Co., Ltd","9-11th floor, B7, FinancialHarbour, NO.77, Guanggu Avenue, East Lake New Technology Development Zone Wuhan Hubei CN 430074 "
 MA-M,1C8776B,Hekatron Vertriebs GmbH,Brühlmatten 9 Sulzburg  DE 79295 
 MA-M,1C8779A,"Hangzhou Xiaowen Intelligent Technology Co., Ltd.","Room 610、611, F/6, Huaye Building,No.511, Jianye Road, Binjiang District Hang Zhou Zhe Jiang CN 310053 "
 MA-M,1C87798,"ZHEJIANG ITENAL TECHNOLOGY CO.,LTD",SHOES INDUSTRIAL PARK WENZHOU ZHEJIANG CN 325401 
@@ -1136,7 +1138,6 @@ MA-M,8C192DA,TeleAlarm SA,Rue du Pont 23  La Chaux-de-Fonds  CH 2300
 MA-M,A03E6BF,Private,
 MA-M,283638C,Swisson AG,Fabrikstrasse 21 Lyss  CH 3250 
 MA-M,E4956EF,Private,
-MA-M,BC6641F,Private,
 MA-M,74E14AF,Private,
 MA-M,B8D812F,Private,
 MA-M,2836388,Havells India Limited,"Head Office, Havells India Ltd QRG Towers, 2D, Sector 126 Noida UP IN 201304 "
@@ -1202,9 +1203,9 @@ MA-M,8C147D1,Private,
 MA-M,8C147DB,Bausch Datacom NV/SA,Tiensesteenweg 54-56 Korbeek-Lo Vlaams-Brabant - Belgium BE 3360 
 MA-M,A0C5F2D,"UnaliWear, Inc.",3410 Cherry Lane Austin TX US 78703 
 MA-M,A0C5F20,Private,
-MA-M,A0C5F2E,Synapsys Solutions Ltd.,"1 Woodlands Court, Albert Drive Burgess Hill West Sussex GB RH15 9TN "
 MA-M,4C65A88,"Instant Byte, S.L.","Calle Julio Palacios, 10 Naves 1-5, Pol. Ind. Ntra. Sra. de Butarque Leganés Madrid ES 28914 "
 MA-M,4C65A82,Orica Europe Pty Ltd & Co KG,Muelheimer Strasse 5 Troisdorf NRW DE 53840 
+MA-M,A0C5F2E,Synapsys Solutions Ltd.,"1 Woodlands Court, Albert Drive Burgess Hill West Sussex GB RH15 9TN "
 MA-M,4C65A84,Plus One Japan Limited,"2-8-6,Nishishinbashi Minato-ku Tokyo JP 105-0003 "
 MA-M,4C65A8C,Fuse,1425 E St. San Diego  US 92110 
 MA-M,F88A3C7,Josh.ai,191 University Blvd #188 Denver CO US 80206 
@@ -1230,6 +1231,7 @@ MA-M,28FD80F,Private,
 MA-M,2CD141F,Private,
 MA-M,2C6A6FF,Private,
 MA-M,A0BB3EF,Private,
+MA-M,BC6641F,Private,
 MA-M,1C87740,Philips Personal Health Solutions,"High Tech Campus, HTC37 floor 0 Eindhoven  NL 5656 AE "
 MA-M,1C87761,EBS Sp. z o.o.,ul. Bronisława Czecha 59 Warszawa Mazowieckie PL 04-555 
 MA-M,1C8779D,"Shenzhen Innovaconn Systems Co.,Ltd","1F East of Building D,Science and Technology Park,NO.2 Kefeng Road, Shenzhen Guangdong CN 518000 "
@@ -1494,31 +1496,32 @@ MA-M,8C147D4,"Nanjing bilian information Technology Co.,Ltd.","Room 407,Building
 MA-M,8C147D6,"Shenzhen Meidou Technology Co, Ltd.","Room 321,Building 4,Zhongxinggongyeyuan,  Chuangye Road, Nanshan District Shenzhen Guangdong CN 518054 "
 MA-M,8C147D8,V2 S.p.A.,Corso Principi di Piemonte 65/67 Racconigi Cuneo IT 12035 
 MA-M,A0C5F28,CoolR Group Inc,14100 Parke Long Ct Suite I Chantilly VA US 20151 
-MA-M,A0C5F2A,"Serious Integrated, Inc.",576 East Germann Road Gilbert AZ US 85296 
 MA-M,A0C5F21,KNS Group LLC (YADRO Company),"Spartakovskaya sq., 14, bl. 1 Moscow  RU 105082 "
+MA-M,A0C5F2A,"Serious Integrated, Inc.",576 East Germann Road Gilbert AZ US 85296 
 MA-M,4C65A81,Beijing Bluehalo Internet Inc.,"901B,Building A of Power Creative,NO.1 Shangdi East Road,Haidian District, Beijing   CN 100085 "
 MA-M,4C65A80,WELT Corporation,"Seocho, Bangbae, 481-5 Seoul  KR 06699 "
 MA-M,4C65A87,"Wuhan MoreQuick Network Technology Co., Ltd.",GuangGuDaDao 70#ShiMaoZhongXin C-2205 WuHan HuBei CN 430019 
 MA-M,4C65A85,TEL-Electronics Ltd,"Sovetskaya, 85 Molzino Moscow region RU 142411 "
 MA-M,4C65A8B,ZMIN Technologies,"Room 403-405, Building C, Baoan New Generation Information Technology Industrial Park, No.139, Chuangye 2 Rd., Baoan District ShenZhen GuangDong CN 518101 "
-MA-M,F88A3CC,"EXCETOP TECHNOLOGY (BEIJING) CO., LTD.","A03, 9th Floor, Horizon International Tower, No.6, Zhichun Road, Haidian District Beijing  CN 100191 "
 MA-M,F88A3C3,Shenzhen Shengyuan Tech Ltd.,"Science and Technology Park North District, high tech North six Road, LAN LAN Technology Park, building C-309,Shenzhen Nanshan District, Guangdong Province, China shenzhen guangdong CN 518000 "
-MA-M,F88A3C6,Beijing Zhong Chuang Communication Technology Ltd.,"RM# 712-35, 7th Floor,  #2 Xin Xi Road, Shangdi, Haidian District Beijing  CN 100085 "
 MA-M,4C65A8E,High Infinity Germany,Freiburgerstr. 9 Emmendingen Deutschland DE 79312 
+MA-M,F88A3CC,"EXCETOP TECHNOLOGY (BEIJING) CO., LTD.","A03, 9th Floor, Horizon International Tower, No.6, Zhichun Road, Haidian District Beijing  CN 100191 "
+MA-M,F88A3C6,Beijing Zhong Chuang Communication Technology Ltd.,"RM# 712-35, 7th Floor,  #2 Xin Xi Road, Shangdi, Haidian District Beijing  CN 100085 "
 MA-M,F88A3C2,KLATU Networks Inc,4174 NE Lookout Lane Poulsbo WA US 98370 
-MA-M,F88A3CD,"THK Co.,LTD.",4-9-16 Higashikoujiya Ota Tokyo JP 1440033 
 MA-M,F88A3CB,FARA AS,Sjøgangen 4 Trondheim  NO NO-7010 
+MA-M,F88A3CD,"THK Co.,LTD.",4-9-16 Higashikoujiya Ota Tokyo JP 1440033 
 MA-M,7CBACC7,Virgin Orbit,4022 E. Conant Street Long Beach CA US 90808 
 MA-M,7CBACC1,"Changsha SUNYE Electric Co., Ltd.","hi tech Zone, Sheng Xin Road, No. 669 Changsha  Hunan CN 410000 "
 MA-M,807B85F,Private,
-MA-M,549A11F,Private,
 MA-M,141FBAF,Private,
 MA-M,B437D1F,Private,
-MA-M,7CBACC8,Collinear Networks Inc.,2901 Tasman Drive Santa Clara CA US 95054 
+MA-M,549A11F,Private,
 MA-M,7CBACC6,Fossil Power Systems Inc,10 Mosher Drive Dartmouth Nova Scotia CA B3B1N5 
+MA-M,7CBACC8,Collinear Networks Inc.,2901 Tasman Drive Santa Clara CA US 95054 
 MA-M,78D8004,CS Instruments GmbH,Zindelsteiner Straße 15  VS-Tannheim  DE 78052 
 MA-M,78D800D,"Korea Micro Wireless Co.,Ltd.","#323, 3F, Kyoungin Center, 20, Baekbeom-ro 577beon-gil, Bupyeong-gu Incheon  KR 21449 "
 MA-M,78D800B,Maddalena S.p.A.,via G.B. Maddalena 2/4 Povoletto UD IT 33040 
 MA-M,28F5370,Valeo Siemens eAutomotive Norway,Graaterudveien 41 Drammen Buskerud NO 3036 
 MA-M,78C2C0F,Private,
 MA-M,0CEFAFF,Private,
+MA-M,28F537E,Performance Motion Devices,1 Technology Park Drive  Westford MA US 01886 
